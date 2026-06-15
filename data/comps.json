@@ -1,0 +1,937 @@
+{
+  "_comment": "Sinh tự động từ comps_stats.json (559 trận challenger VN). Chạy lại scripts/merge_stats.mjs sau mỗi lần aggregate.",
+  "patch": "Set17-riot",
+  "source": "riot",
+  "comps": [
+    {
+      "id": "tft17astronaut-tft17summontrait-tft17bard",
+      "name": "Meeple Shepherd - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.346,
+        "top4Rate": 0.923,
+        "winRate": 0.308,
+        "playRate": 0.0058,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Rammus",
+        "TFT17_IvernMinion",
+        "TFT17_Bard",
+        "TFT17_Sona",
+        "TFT17_Poppy",
+        "TFT17_Veigar",
+        "TFT17_Lissandra"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_SummonTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Rabadons Deathcap",
+          "Statikk Shiv",
+          "Jeweled Gauntlet"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17darkstar-tft17bard",
+      "name": "Meeple Dark Star - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.545,
+        "top4Rate": 0.909,
+        "winRate": 0.364,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Bard",
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Jhin",
+        "TFT17_Mordekaiser",
+        "TFT17_Karma",
+        "TFT17_Gnar"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_DarkStar"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Jeweled Gauntlet",
+          "Rabadons Deathcap",
+          "Adaptive Helm"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17assassintrait-tft17bard",
+      "name": "Meeple Rogue - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.63,
+        "top4Rate": 0.926,
+        "winRate": 0.259,
+        "playRate": 0.006,
+        "games": 27
+      },
+      "coreUnits": [
+        "TFT17_Fizz",
+        "TFT17_Rammus",
+        "TFT17_Corki",
+        "TFT17_Bard",
+        "TFT17_Milio",
+        "TFT17_Riven",
+        "TFT17_IvernMinion",
+        "TFT17_Galio"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_AssassinTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Morellonomicon",
+          "Madreds Bloodrazor",
+          "Jeweled Gauntlet"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17spacegroove-tft17rangedtrait-tft17blitzcrank",
+      "name": "Space Groove Sniper - Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.654,
+        "top4Rate": 0.808,
+        "winRate": 0.346,
+        "playRate": 0.0058,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Samira",
+        "TFT17_Nami",
+        "TFT17_Blitzcrank",
+        "TFT17_Nasus",
+        "TFT17_Gwen",
+        "TFT17_Jhin",
+        "TFT17_Teemo"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_RangedTrait"
+      ],
+      "carryItems": {
+        "TFT17_Blitzcrank": [
+          "Thiefs Gloves",
+          "Ionic Spark",
+          "Morellonomicon"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17resisttank-tft17bard",
+      "name": "Meeple Bastion - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.667,
+        "top4Rate": 0.833,
+        "winRate": 0.389,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Poppy",
+        "TFT17_Rammus",
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Shen",
+        "TFT17_Gnar",
+        "TFT17_Fizz",
+        "TFT17_Corki"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_ResistTank"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Rabadons Deathcap",
+          "Madreds Bloodrazor",
+          "Blue Buff"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17stargazermountain-tft17drx-tft17jhin",
+      "name": "Stargazer N.O.V.A. - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.733,
+        "top4Rate": 0.8,
+        "winRate": 0.467,
+        "playRate": 0.0067,
+        "games": 30
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Maokai",
+        "TFT17_Rhaast",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_TahmKench",
+        "TFT17_Jhin",
+        "TFT17_Jax"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Mountain",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Stargazer Emblem Item",
+          "Infinity Edge",
+          "Deathblade"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17flextrait-tft17jhin",
+      "name": "Meeple Voyager - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.095,
+        "top4Rate": 0.857,
+        "winRate": 0.19,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Gnar",
+        "TFT17_IvernMinion",
+        "TFT17_Rammus",
+        "TFT17_Galio",
+        "TFT17_Jhin",
+        "TFT17_Karma",
+        "TFT17_Poppy",
+        "TFT17_Bard"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_FlexTrait"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Infinity Edge",
+          "Last Whisper",
+          "Deathblade"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17flextrait-tft17shieldtank-tft17bard",
+      "name": "Voyager Vanguard - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.132,
+        "top4Rate": 0.737,
+        "winRate": 0.237,
+        "playRate": 0.0085,
+        "games": 38
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Mordekaiser",
+        "TFT17_Illaoi",
+        "TFT17_Karma",
+        "TFT17_Blitzcrank",
+        "TFT17_Sona"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_FlexTrait",
+        "TFT17_ShieldTank"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Jeweled Gauntlet",
+          "Rabadons Deathcap",
+          "Madreds Bloodrazor"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17drx-tft17meleetrait-tft17fiora",
+      "name": "N.O.V.A. Marauder - Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.273,
+        "top4Rate": 0.703,
+        "winRate": 0.326,
+        "playRate": 0.0385,
+        "games": 172
+      },
+      "coreUnits": [
+        "TFT17_Akali",
+        "TFT17_Fiora",
+        "TFT17_Aatrox",
+        "TFT17_Shen",
+        "TFT17_Blitzcrank",
+        "TFT17_Vex",
+        "TFT17_Nunu",
+        "TFT17_Graves"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_MeleeTrait"
+      ],
+      "carryItems": {
+        "TFT17_Fiora": [
+          "Thiefs Gloves",
+          "Guardian Angel",
+          "Steraks Gage"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17darkstar-tft17jhin",
+      "name": "Meeple Dark Star - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.333,
+        "top4Rate": 0.778,
+        "winRate": 0.167,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Rammus",
+        "TFT17_Jhin",
+        "TFT17_Gnar",
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Poppy",
+        "TFT17_Mordekaiser",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_DarkStar"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Last Whisper",
+          "Deathblade",
+          "Infinity Edge"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17hptank-tft17meleetrait-tft17fiora",
+      "name": "Brawler Marauder - Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.34,
+        "top4Rate": 0.716,
+        "winRate": 0.235,
+        "playRate": 0.0363,
+        "games": 162
+      },
+      "coreUnits": [
+        "TFT17_Fiora",
+        "TFT17_Urgot",
+        "TFT17_TahmKench",
+        "TFT17_Maokai",
+        "TFT17_MasterYi",
+        "TFT17_Gragas",
+        "TFT17_Kindred",
+        "TFT17_Belveth"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "keyTraits": [
+        "TFT17_HPTank",
+        "TFT17_MeleeTrait"
+      ],
+      "carryItems": {
+        "TFT17_Fiora": [
+          "Guardian Angel",
+          "Steraks Gage",
+          "Madreds Bloodrazor"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17flextrait-tft17bard",
+      "name": "Meeple Voyager - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.391,
+        "top4Rate": 0.696,
+        "winRate": 0.261,
+        "playRate": 0.0052,
+        "games": 23
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Bard",
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Galio",
+        "TFT17_Karma",
+        "TFT17_Gnar",
+        "TFT17_Corki"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_FlexTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Morellonomicon",
+          "Madreds Bloodrazor",
+          "Jeweled Gauntlet"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17drx-tft17hptank-tft17fiora",
+      "name": "N.O.V.A. Brawler - Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.424,
+        "top4Rate": 0.636,
+        "winRate": 0.394,
+        "playRate": 0.0074,
+        "games": 33
+      },
+      "coreUnits": [
+        "TFT17_Fiora",
+        "TFT17_Maokai",
+        "TFT17_Akali",
+        "TFT17_TahmKench",
+        "TFT17_Shen",
+        "TFT17_Graves",
+        "TFT17_Aatrox",
+        "TFT17_Vex"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_HPTank"
+      ],
+      "carryItems": {
+        "TFT17_Fiora": [
+          "Guardian Angel",
+          "Bloodthirster",
+          "Thiefs Gloves"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17shieldtank-tft17summontrait-tft17bard",
+      "name": "Vanguard Shepherd - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.527,
+        "top4Rate": 0.717,
+        "winRate": 0.223,
+        "playRate": 0.0412,
+        "games": 184
+      },
+      "coreUnits": [
+        "TFT17_Illaoi",
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Mordekaiser",
+        "TFT17_Sona",
+        "TFT17_Blitzcrank",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_SummonTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Jeweled Gauntlet",
+          "Statikk Shiv",
+          "Madreds Bloodrazor"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17spacegroove-tft17aptrait-tft17blitzcrank",
+      "name": "Space Groove Replicator - Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.718,
+        "top4Rate": 0.641,
+        "winRate": 0.179,
+        "playRate": 0.0175,
+        "games": 78
+      },
+      "coreUnits": [
+        "TFT17_Nami",
+        "TFT17_Blitzcrank",
+        "TFT17_Ornn",
+        "TFT17_Pantheon",
+        "TFT17_Gwen",
+        "TFT17_Nasus",
+        "TFT17_TahmKench",
+        "TFT17_Riven"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_APTrait"
+      ],
+      "carryItems": {
+        "TFT17_Blitzcrank": [
+          "Statikk Shiv",
+          "Jeweled Gauntlet",
+          "Morellonomicon"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17shieldtank-tft17bard",
+      "name": "Meeple Vanguard - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.762,
+        "top4Rate": 0.571,
+        "winRate": 0.286,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Mordekaiser",
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Blitzcrank",
+        "TFT17_Sona",
+        "TFT17_Illaoi",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_ShieldTank"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Jeweled Gauntlet",
+          "Madreds Bloodrazor",
+          "Power Gauntlet"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17spacegroove-tft17shieldtank-tft17blitzcrank",
+      "name": "Space Groove Vanguard - Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.778,
+        "top4Rate": 0.611,
+        "winRate": 0.167,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Blitzcrank",
+        "TFT17_Nami",
+        "TFT17_Nasus",
+        "TFT17_Samira",
+        "TFT17_Gwen",
+        "TFT17_Nunu",
+        "TFT17_Teemo"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ShieldTank"
+      ],
+      "carryItems": {
+        "TFT17_Blitzcrank": [
+          "Thiefs Gloves",
+          "Statikk Shiv",
+          "Empty Bag"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astrait-tft17drx-tft17kindred",
+      "name": "Challenger N.O.V.A. - Kindred",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.786,
+        "top4Rate": 0.607,
+        "winRate": 0.107,
+        "playRate": 0.0063,
+        "games": 28
+      },
+      "coreUnits": [
+        "TFT17_Kindred",
+        "TFT17_Maokai",
+        "TFT17_Belveth",
+        "TFT17_Akali",
+        "TFT17_Aatrox",
+        "TFT17_Rhaast",
+        "TFT17_Jinx",
+        "TFT17_MissFortune"
+      ],
+      "carryUnits": [
+        "TFT17_Kindred"
+      ],
+      "keyTraits": [
+        "TFT17_ASTrait",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Kindred": [
+          "Thiefs Gloves",
+          "Madreds Bloodrazor",
+          "Deathblade"
+        ]
+      },
+      "levelToCommit": 8,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17stargazerfountain-tft17drx-tft17jhin",
+      "name": "Stargazer N.O.V.A. - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.889,
+        "top4Rate": 0.556,
+        "winRate": 0.222,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Jax",
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_Jhin",
+        "TFT17_TahmKench",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Fountain",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Infinity Edge",
+          "Deathblade",
+          "Madreds Bloodrazor"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17darkstar-tft17summontrait-tft17karma",
+      "name": "Dark Star Shepherd - Karma",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.048,
+        "top4Rate": 0.714,
+        "winRate": 0,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Lissandra",
+        "TFT17_Karma",
+        "TFT17_Mordekaiser",
+        "TFT17_Illaoi",
+        "TFT17_IvernMinion",
+        "TFT17_Chogath",
+        "TFT17_Kaisa"
+      ],
+      "carryUnits": [
+        "TFT17_Karma"
+      ],
+      "keyTraits": [
+        "TFT17_DarkStar",
+        "TFT17_SummonTrait"
+      ],
+      "carryItems": {
+        "TFT17_Karma": [
+          "Statikk Shiv",
+          "Morellonomicon",
+          "Jeweled Gauntlet"
+        ]
+      },
+      "levelToCommit": 8,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17darkstar-tft17shieldtank-tft17bard",
+      "name": "Dark Star Vanguard - Bard",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.077,
+        "top4Rate": 0.538,
+        "winRate": 0.231,
+        "playRate": 0.0058,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Mordekaiser",
+        "TFT17_Blitzcrank",
+        "TFT17_Karma",
+        "TFT17_Nunu",
+        "TFT17_Illaoi",
+        "TFT17_IvernMinion",
+        "TFT17_Jhin"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_DarkStar",
+        "TFT17_ShieldTank"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Jeweled Gauntlet",
+          "Madreds Bloodrazor",
+          "Rabadons Deathcap"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17shieldtank-tft17manatrait-tft17bard",
+      "name": "Vanguard Conduit - Bard",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.085,
+        "top4Rate": 0.596,
+        "winRate": 0.128,
+        "playRate": 0.0105,
+        "games": 47
+      },
+      "coreUnits": [
+        "TFT17_Mordekaiser",
+        "TFT17_Bard",
+        "TFT17_Illaoi",
+        "TFT17_Nunu",
+        "TFT17_Sona",
+        "TFT17_IvernMinion",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_ManaTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Jeweled Gauntlet",
+          "Rabadons Deathcap",
+          "Madreds Bloodrazor"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17spacegroove-tft17resisttank-tft17blitzcrank",
+      "name": "Space Groove Bastion - Blitzcrank",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.091,
+        "top4Rate": 0.591,
+        "winRate": 0.045,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Nami",
+        "TFT17_Blitzcrank",
+        "TFT17_Nasus",
+        "TFT17_Samira",
+        "TFT17_Gwen",
+        "TFT17_Teemo",
+        "TFT17_Shen"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ResistTank"
+      ],
+      "carryItems": {
+        "TFT17_Blitzcrank": [
+          "Jeweled Gauntlet",
+          "Rabadons Deathcap",
+          "Statikk Shiv"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17stargazerserpent-tft17drx-tft17jhin",
+      "name": "Stargazer N.O.V.A. - Jhin",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.136,
+        "top4Rate": 0.591,
+        "winRate": 0.227,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_TahmKench",
+        "TFT17_Jhin",
+        "TFT17_Aatrox",
+        "TFT17_Jax",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Serpent",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Infinity Edge",
+          "Madreds Bloodrazor",
+          "Deathblade"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    }
+  ]
+}

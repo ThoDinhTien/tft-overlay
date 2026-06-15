@@ -1,0 +1,375 @@
+{
+  "traits": [
+    {
+      "apiName": "TFT17_VexUniqueTrait",
+      "name": "Doomer",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_ASTrait",
+      "name": "Challenger",
+      "breakpoints": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "apiName": "TFT17_MissFortuneUndeterminedTrait",
+      "name": "Choose Trait",
+      "breakpoints": []
+    },
+    {
+      "apiName": "TFT17_Stargazer_Wolf",
+      "name": "Stargazer",
+      "breakpoints": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_APTrait",
+      "name": "Replicator",
+      "breakpoints": [
+        2,
+        4
+      ]
+    },
+    {
+      "apiName": "TFT17_ShieldTank",
+      "name": "Vanguard",
+      "breakpoints": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_PsyOps",
+      "name": "Psionic",
+      "breakpoints": [
+        2,
+        4
+      ]
+    },
+    {
+      "apiName": "TFT17_JhinUniqueTrait",
+      "name": "Eradicator",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_Timebreaker",
+      "name": "Timebreaker",
+      "breakpoints": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "apiName": "TFT17_MeleeTrait",
+      "name": "Marauder",
+      "breakpoints": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_MissFortuneUniqueTrait",
+      "name": "Gun Goddess",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_AnimaSquad",
+      "name": "Anima",
+      "breakpoints": [
+        3,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_Fateweaver",
+      "name": "Fateweaver",
+      "breakpoints": [
+        2,
+        4
+      ]
+    },
+    {
+      "apiName": "TFT17_ZedUniqueTrait",
+      "name": "Galaxy Hunter",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_ShenUniqueTrait",
+      "name": "Bulwark",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_SonaUniqueTrait",
+      "name": "Commander",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_Stargazer_Medallion",
+      "name": "Stargazer",
+      "breakpoints": [
+        3
+      ]
+    },
+    {
+      "apiName": "TFT17_Stargazer_Huntress",
+      "name": "Stargazer",
+      "breakpoints": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "apiName": "Set17_CarouselMarket_EmpoweredHexTrait",
+      "name": "God-Blessed",
+      "breakpoints": []
+    },
+    {
+      "apiName": "TFT17_Stargazer_Serpent",
+      "name": "Stargazer",
+      "breakpoints": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "apiName": "TFT17_Stargazer_Shield",
+      "name": "Stargazer",
+      "breakpoints": [
+        3
+      ]
+    },
+    {
+      "apiName": "TFT17_Stargazer_Fountain",
+      "name": "Stargazer",
+      "breakpoints": [
+        3,
+        5
+      ]
+    },
+    {
+      "apiName": "TFT17_AssassinTrait",
+      "name": "Rogue",
+      "breakpoints": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "apiName": "TFT17_DarkStar",
+      "name": "Dark Star",
+      "breakpoints": [
+        2,
+        4,
+        6,
+        9
+      ]
+    },
+    {
+      "apiName": "TFT17_Primordian",
+      "name": "Primordian",
+      "breakpoints": [
+        2,
+        3
+      ]
+    },
+    {
+      "apiName": "TFT17_SpaceGroove",
+      "name": "Space Groove",
+      "breakpoints": [
+        1,
+        3,
+        5,
+        7,
+        10
+      ]
+    },
+    {
+      "apiName": "TFT17_ADMIN",
+      "name": "Arbiter",
+      "breakpoints": [
+        2,
+        3
+      ]
+    },
+    {
+      "apiName": "TFT17_Stargazer_Mountain",
+      "name": "Stargazer",
+      "breakpoints": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "apiName": "TFT17_SummonTrait",
+      "name": "Shepherd",
+      "breakpoints": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "apiName": "TFT17_RhaastUniqueTrait",
+      "name": "Redeemer",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_HPTank",
+      "name": "Brawler",
+      "breakpoints": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_ResistTank",
+      "name": "Bastion",
+      "breakpoints": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_Astronaut",
+      "name": "Meeple",
+      "breakpoints": [
+        3,
+        5,
+        7,
+        10
+      ]
+    },
+    {
+      "apiName": "TFT17_ManaTrait",
+      "name": "Conduit",
+      "breakpoints": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "apiName": "TFT17_Mecha",
+      "name": "Mecha",
+      "breakpoints": [
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_GravesTrait",
+      "name": "Factory New",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_Stargazer",
+      "name": "Stargazer",
+      "breakpoints": [
+        3,
+        5,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "apiName": "TFT17_FlexTrait",
+      "name": "Voyager",
+      "breakpoints": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "apiName": "TFT17_BlitzcrankUniqueTrait",
+      "name": "Party Animal",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_DRX",
+      "name": "N.O.V.A.",
+      "breakpoints": [
+        2,
+        5
+      ]
+    },
+    {
+      "apiName": "TFT17_TahmKenchUniqueTrait",
+      "name": "Oracle",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_RangedTrait",
+      "name": "Sniper",
+      "breakpoints": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "apiName": "TFT17_FioraUniqueTrait",
+      "name": "Divine Duelist",
+      "breakpoints": [
+        1
+      ]
+    },
+    {
+      "apiName": "TFT17_MorganaUniqueTrait",
+      "name": "Dark Lady",
+      "breakpoints": [
+        1
+      ]
+    }
+  ]
+}

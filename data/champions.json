@@ -1,0 +1,677 @@
+{
+  "set": "Set17",
+  "champions": [
+    {
+      "apiName": "TFT_BlueGolem",
+      "name": "Golem",
+      "cost": 1,
+      "traits": [],
+      "iconAsset": "TFT_BlueGolem.png"
+    },
+    {
+      "apiName": "TFT9_SLIME_Crab",
+      "name": "Rift Scuttler",
+      "cost": 1,
+      "traits": [],
+      "iconAsset": "TFT9_SLIME_Crab.png"
+    },
+    {
+      "apiName": "TFT_TrainingDummy",
+      "name": "Training Dummy",
+      "cost": 1,
+      "traits": [],
+      "iconAsset": "TFT_TrainingDummy.png"
+    },
+    {
+      "apiName": "TFT17_Briar",
+      "name": "Briar",
+      "cost": 1,
+      "traits": [
+        "Anima",
+        "Primordian",
+        "Rogue"
+      ],
+      "iconAsset": "TFT17_Briar.png"
+    },
+    {
+      "apiName": "TFT17_Belveth",
+      "name": "Bel'Veth",
+      "cost": 2,
+      "traits": [
+        "Primordian",
+        "Challenger",
+        "Marauder"
+      ],
+      "iconAsset": "TFT17_Belveth.png"
+    },
+    {
+      "apiName": "TFT17_MissFortune",
+      "name": "Miss Fortune",
+      "cost": 3,
+      "traits": [
+        "Gun Goddess",
+        "Choose Trait"
+      ],
+      "iconAsset": "TFT17_MissFortune.png"
+    },
+    {
+      "apiName": "TFT17_Akali",
+      "name": "Akali",
+      "cost": 2,
+      "traits": [
+        "N.O.V.A.",
+        "Marauder"
+      ],
+      "iconAsset": "TFT17_Akali.png"
+    },
+    {
+      "apiName": "TFT17_Bard",
+      "name": "Bard",
+      "cost": 5,
+      "traits": [
+        "Meeple",
+        "Conduit"
+      ],
+      "iconAsset": "TFT17_Bard.png"
+    },
+    {
+      "apiName": "TFT17_Jinx",
+      "name": "Jinx",
+      "cost": 2,
+      "traits": [
+        "Anima",
+        "Challenger"
+      ],
+      "iconAsset": "TFT17_Jinx.png"
+    },
+    {
+      "apiName": "TFT17_Illaoi",
+      "name": "Illaoi",
+      "cost": 3,
+      "traits": [
+        "Anima",
+        "Vanguard",
+        "Shepherd"
+      ],
+      "iconAsset": "TFT17_Illaoi.png"
+    },
+    {
+      "apiName": "TFT17_Aurora",
+      "name": "Aurora",
+      "cost": 3,
+      "traits": [
+        "Anima",
+        "Voyager"
+      ],
+      "iconAsset": "TFT17_Aurora.png"
+    },
+    {
+      "apiName": "TFT17_Fiora",
+      "name": "Fiora",
+      "cost": 5,
+      "traits": [
+        "Divine Duelist",
+        "Anima",
+        "Marauder"
+      ],
+      "iconAsset": "TFT17_Fiora.png"
+    },
+    {
+      "apiName": "TFT17_Gnar",
+      "name": "Gnar",
+      "cost": 2,
+      "traits": [
+        "Meeple",
+        "Sniper"
+      ],
+      "iconAsset": "TFT17_Gnar.png"
+    },
+    {
+      "apiName": "TFT17_Fizz",
+      "name": "Fizz",
+      "cost": 3,
+      "traits": [
+        "Meeple",
+        "Rogue"
+      ],
+      "iconAsset": "TFT17_Fizz.png"
+    },
+    {
+      "apiName": "TFT17_Rammus",
+      "name": "Rammus",
+      "cost": 4,
+      "traits": [
+        "Meeple",
+        "Bastion"
+      ],
+      "iconAsset": "TFT17_Rammus.png"
+    },
+    {
+      "apiName": "TFT17_Poppy",
+      "name": "Poppy",
+      "cost": 1,
+      "traits": [
+        "Meeple",
+        "Bastion"
+      ],
+      "iconAsset": "TFT17_Poppy.png"
+    },
+    {
+      "apiName": "TFT17_Corki",
+      "name": "Corki",
+      "cost": 4,
+      "traits": [
+        "Meeple",
+        "Fateweaver"
+      ],
+      "iconAsset": "TFT17_Corki.png"
+    },
+    {
+      "apiName": "TFT17_Veigar",
+      "name": "Veigar",
+      "cost": 1,
+      "traits": [
+        "Meeple",
+        "Replicator"
+      ],
+      "iconAsset": "TFT17_Veigar.png"
+    },
+    {
+      "apiName": "TFT17_Aatrox",
+      "name": "Aatrox",
+      "cost": 1,
+      "traits": [
+        "N.O.V.A.",
+        "Bastion"
+      ],
+      "iconAsset": "TFT17_Aatrox.png"
+    },
+    {
+      "apiName": "TFT17_Caitlyn",
+      "name": "Caitlyn",
+      "cost": 1,
+      "traits": [
+        "N.O.V.A.",
+        "Fateweaver"
+      ],
+      "iconAsset": "TFT17_Caitlyn.png"
+    },
+    {
+      "apiName": "TFT17_Maokai",
+      "name": "Maokai",
+      "cost": 3,
+      "traits": [
+        "N.O.V.A.",
+        "Brawler"
+      ],
+      "iconAsset": "TFT17_Maokai.png"
+    },
+    {
+      "apiName": "TFT17_Kindred",
+      "name": "Kindred",
+      "cost": 4,
+      "traits": [
+        "N.O.V.A.",
+        "Challenger"
+      ],
+      "iconAsset": "TFT17_Kindred.png"
+    },
+    {
+      "apiName": "TFT17_Kaisa",
+      "name": "Kai'Sa",
+      "cost": 3,
+      "traits": [
+        "Dark Star",
+        "Rogue"
+      ],
+      "iconAsset": "TFT17_Kaisa.png"
+    },
+    {
+      "apiName": "TFT17_Karma",
+      "name": "Karma",
+      "cost": 4,
+      "traits": [
+        "Dark Star",
+        "Voyager"
+      ],
+      "iconAsset": "TFT17_Karma.png"
+    },
+    {
+      "apiName": "TFT17_Jhin",
+      "name": "Jhin",
+      "cost": 5,
+      "traits": [
+        "Dark Star",
+        "Eradicator",
+        "Sniper"
+      ],
+      "iconAsset": "TFT17_Jhin.png"
+    },
+    {
+      "apiName": "TFT17_Urgot",
+      "name": "Urgot",
+      "cost": 3,
+      "traits": [
+        "Mecha",
+        "Brawler",
+        "Marauder"
+      ],
+      "iconAsset": "TFT17_Urgot.png"
+    },
+    {
+      "apiName": "TFT17_AurelionSol",
+      "name": "Aurelion Sol",
+      "cost": 4,
+      "traits": [
+        "Mecha",
+        "Conduit"
+      ],
+      "iconAsset": "TFT17_AurelionSol.png"
+    },
+    {
+      "apiName": "TFT17_Galio",
+      "name": "The Mighty Mech",
+      "cost": 4,
+      "traits": [
+        "Mecha",
+        "Voyager"
+      ],
+      "iconAsset": "TFT17_Galio.png"
+    },
+    {
+      "apiName": "TFT17_Viktor",
+      "name": "Viktor",
+      "cost": 3,
+      "traits": [
+        "Psionic",
+        "Conduit"
+      ],
+      "iconAsset": "TFT17_Viktor.png"
+    },
+    {
+      "apiName": "TFT17_Pyke",
+      "name": "Pyke",
+      "cost": 2,
+      "traits": [
+        "Psionic",
+        "Voyager"
+      ],
+      "iconAsset": "TFT17_Pyke.png"
+    },
+    {
+      "apiName": "TFT17_MasterYi",
+      "name": "Master Yi",
+      "cost": 4,
+      "traits": [
+        "Psionic",
+        "Marauder"
+      ],
+      "iconAsset": "TFT17_MasterYi.png"
+    },
+    {
+      "apiName": "TFT17_Gragas",
+      "name": "Gragas",
+      "cost": 2,
+      "traits": [
+        "Psionic",
+        "Brawler"
+      ],
+      "iconAsset": "TFT17_Gragas.png"
+    },
+    {
+      "apiName": "TFT17_Teemo",
+      "name": "Teemo",
+      "cost": 1,
+      "traits": [
+        "Space Groove",
+        "Shepherd"
+      ],
+      "iconAsset": "TFT17_Teemo.png"
+    },
+    {
+      "apiName": "TFT17_Nasus",
+      "name": "Nasus",
+      "cost": 1,
+      "traits": [
+        "Space Groove",
+        "Vanguard"
+      ],
+      "iconAsset": "TFT17_Nasus.png"
+    },
+    {
+      "apiName": "TFT17_Gwen",
+      "name": "Gwen",
+      "cost": 2,
+      "traits": [
+        "Space Groove",
+        "Rogue"
+      ],
+      "iconAsset": "TFT17_Gwen.png"
+    },
+    {
+      "apiName": "TFT17_Samira",
+      "name": "Samira",
+      "cost": 3,
+      "traits": [
+        "Space Groove",
+        "Sniper"
+      ],
+      "iconAsset": "TFT17_Samira.png"
+    },
+    {
+      "apiName": "TFT17_Ornn",
+      "name": "Ornn",
+      "cost": 3,
+      "traits": [
+        "Space Groove",
+        "Bastion"
+      ],
+      "iconAsset": "TFT17_Ornn.png"
+    },
+    {
+      "apiName": "TFT17_Nami",
+      "name": "Nami",
+      "cost": 4,
+      "traits": [
+        "Space Groove",
+        "Replicator"
+      ],
+      "iconAsset": "TFT17_Nami.png"
+    },
+    {
+      "apiName": "TFT17_Blitzcrank",
+      "name": "Blitzcrank",
+      "cost": 5,
+      "traits": [
+        "Party Animal",
+        "Space Groove",
+        "Vanguard"
+      ],
+      "iconAsset": "TFT17_Blitzcrank.png"
+    },
+    {
+      "apiName": "TFT17_Sona",
+      "name": "Sona",
+      "cost": 5,
+      "traits": [
+        "Commander",
+        "Psionic",
+        "Shepherd"
+      ],
+      "iconAsset": "TFT17_Sona.png"
+    },
+    {
+      "apiName": "TFT17_TwistedFate",
+      "name": "Twisted Fate",
+      "cost": 1,
+      "traits": [
+        "Stargazer",
+        "Fateweaver"
+      ],
+      "iconAsset": "TFT17_TwistedFate.png"
+    },
+    {
+      "apiName": "TFT17_Talon",
+      "name": "Talon",
+      "cost": 1,
+      "traits": [
+        "Stargazer",
+        "Rogue"
+      ],
+      "iconAsset": "TFT17_Talon.png"
+    },
+    {
+      "apiName": "TFT17_Jax",
+      "name": "Jax",
+      "cost": 2,
+      "traits": [
+        "Stargazer",
+        "Bastion"
+      ],
+      "iconAsset": "TFT17_Jax.png"
+    },
+    {
+      "apiName": "TFT17_Lulu",
+      "name": "Lulu",
+      "cost": 3,
+      "traits": [
+        "Stargazer",
+        "Replicator"
+      ],
+      "iconAsset": "TFT17_Lulu.png"
+    },
+    {
+      "apiName": "TFT17_Nunu",
+      "name": "Nunu & Willump",
+      "cost": 4,
+      "traits": [
+        "Stargazer",
+        "Vanguard"
+      ],
+      "iconAsset": "TFT17_Nunu.png"
+    },
+    {
+      "apiName": "TFT17_Vex",
+      "name": "Vex",
+      "cost": 5,
+      "traits": [
+        "Doomer"
+      ],
+      "iconAsset": "TFT17_Vex.png"
+    },
+    {
+      "apiName": "TFT17_Riven",
+      "name": "Riven",
+      "cost": 4,
+      "traits": [
+        "Timebreaker",
+        "Rogue"
+      ],
+      "iconAsset": "TFT17_Riven.png"
+    },
+    {
+      "apiName": "TFT17_Shen",
+      "name": "Shen",
+      "cost": 5,
+      "traits": [
+        "Bulwark",
+        "Bastion"
+      ],
+      "iconAsset": "TFT17_Shen.png"
+    },
+    {
+      "apiName": "TFT17_Milio",
+      "name": "Milio",
+      "cost": 2,
+      "traits": [
+        "Timebreaker",
+        "Fateweaver"
+      ],
+      "iconAsset": "TFT17_Milio.png"
+    },
+    {
+      "apiName": "TFT17_Ezreal",
+      "name": "Ezreal",
+      "cost": 1,
+      "traits": [
+        "Timebreaker",
+        "Sniper"
+      ],
+      "iconAsset": "TFT17_Ezreal.png"
+    },
+    {
+      "apiName": "TFT17_Leona",
+      "name": "Leona",
+      "cost": 1,
+      "traits": [
+        "Arbiter",
+        "Vanguard"
+      ],
+      "iconAsset": "TFT17_Leona.png"
+    },
+    {
+      "apiName": "TFT17_Zoe",
+      "name": "Zoe",
+      "cost": 2,
+      "traits": [
+        "Arbiter",
+        "Conduit"
+      ],
+      "iconAsset": "TFT17_Zoe.png"
+    },
+    {
+      "apiName": "TFT17_Diana",
+      "name": "Diana",
+      "cost": 3,
+      "traits": [
+        "Arbiter",
+        "Challenger"
+      ],
+      "iconAsset": "TFT17_Diana.png"
+    },
+    {
+      "apiName": "TFT17_Leblanc",
+      "name": "LeBlanc",
+      "cost": 4,
+      "traits": [
+        "Arbiter",
+        "Shepherd"
+      ],
+      "iconAsset": "TFT17_Leblanc.png"
+    },
+    {
+      "apiName": "TFT17_Chogath",
+      "name": "Cho'Gath",
+      "cost": 1,
+      "traits": [
+        "Dark Star",
+        "Brawler"
+      ],
+      "iconAsset": "TFT17_Chogath.png"
+    },
+    {
+      "apiName": "TFT17_Lissandra",
+      "name": "Lissandra",
+      "cost": 1,
+      "traits": [
+        "Dark Star",
+        "Shepherd",
+        "Replicator"
+      ],
+      "iconAsset": "TFT17_Lissandra.png"
+    },
+    {
+      "apiName": "TFT17_Zed",
+      "name": "Zed",
+      "cost": 5,
+      "traits": [
+        "Galaxy Hunter"
+      ],
+      "iconAsset": "TFT17_Zed.png"
+    },
+    {
+      "apiName": "TFT17_IvernMinion",
+      "name": "Meepsie",
+      "cost": 2,
+      "traits": [
+        "Meeple",
+        "Shepherd",
+        "Voyager"
+      ],
+      "iconAsset": "TFT17_IvernMinion.png"
+    },
+    {
+      "apiName": "TFT17_Mordekaiser",
+      "name": "Mordekaiser",
+      "cost": 2,
+      "traits": [
+        "Dark Star",
+        "Conduit",
+        "Vanguard"
+      ],
+      "iconAsset": "TFT17_Mordekaiser.png"
+    },
+    {
+      "apiName": "TFT17_Xayah",
+      "name": "Xayah",
+      "cost": 4,
+      "traits": [
+        "Stargazer",
+        "Sniper"
+      ],
+      "iconAsset": "TFT17_Xayah.png"
+    },
+    {
+      "apiName": "TFT17_Graves",
+      "name": "Graves",
+      "cost": 5,
+      "traits": [
+        "Factory New"
+      ],
+      "iconAsset": "TFT17_Graves.png"
+    },
+    {
+      "apiName": "TFT17_TahmKench",
+      "name": "Tahm Kench",
+      "cost": 4,
+      "traits": [
+        "Oracle",
+        "Brawler"
+      ],
+      "iconAsset": "TFT17_TahmKench.png"
+    },
+    {
+      "apiName": "TFT17_Rhaast",
+      "name": "Rhaast",
+      "cost": 3,
+      "traits": [
+        "Redeemer"
+      ],
+      "iconAsset": "TFT17_Rhaast.png"
+    },
+    {
+      "apiName": "TFT17_RekSai",
+      "name": "Rek'Sai",
+      "cost": 1,
+      "traits": [
+        "Primordian",
+        "Brawler"
+      ],
+      "iconAsset": "TFT17_RekSai.png"
+    },
+    {
+      "apiName": "TFT17_Pantheon",
+      "name": "Pantheon",
+      "cost": 2,
+      "traits": [
+        "Timebreaker",
+        "Brawler",
+        "Replicator"
+      ],
+      "iconAsset": "TFT17_Pantheon.png"
+    },
+    {
+      "apiName": "TFT17_Morgana",
+      "name": "Morgana",
+      "cost": 4,
+      "traits": [
+        "Dark Lady"
+      ],
+      "iconAsset": "TFT17_Morgana.png"
+    },
+    {
+      "apiName": "TFT17_DarkStar_FakeUnit",
+      "name": "Mini Black Hole",
+      "cost": 1,
+      "traits": [],
+      "iconAsset": "TFT17_DarkStar_FakeUnit.png"
+    },
+    {
+      "apiName": "TFT17_Enemy_Aatrox",
+      "name": "Apex Primordian",
+      "cost": 5,
+      "traits": [],
+      "iconAsset": "TFT17_Enemy_Aatrox.png"
+    }
+  ]
+}

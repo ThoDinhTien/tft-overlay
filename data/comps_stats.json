@@ -1,0 +1,2013 @@
+{
+  "patch": "riot-aggregate",
+  "source": "riot",
+  "sampleMatches": 559,
+  "comps": [
+    {
+      "id": "tft17astronaut-tft17summontrait-tft17bard",
+      "name": "TFT17_Astronaut TFT17_SummonTrait - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.346,
+        "top4Rate": 0.923,
+        "winRate": 0.308,
+        "playRate": 0.0058,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Rammus",
+        "TFT17_IvernMinion",
+        "TFT17_Bard",
+        "TFT17_Summon",
+        "TFT17_Sona",
+        "TFT17_Poppy",
+        "TFT17_Veigar",
+        "TFT17_Lissandra"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_StatikkShiv",
+        "TFT_Item_JeweledGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17darkstar-tft17bard",
+      "name": "TFT17_Astronaut TFT17_DarkStar - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.545,
+        "top4Rate": 0.909,
+        "winRate": 0.364,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Bard",
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Jhin",
+        "TFT17_Mordekaiser",
+        "TFT17_Karma",
+        "TFT17_Gnar"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_AdaptiveHelm"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_DarkStar"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17assassintrait-tft17bard",
+      "name": "TFT17_Astronaut TFT17_AssassinTrait - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.63,
+        "top4Rate": 0.926,
+        "winRate": 0.259,
+        "playRate": 0.006,
+        "games": 27
+      },
+      "coreUnits": [
+        "TFT17_Fizz",
+        "TFT17_Rammus",
+        "TFT17_Corki",
+        "TFT17_Bard",
+        "TFT17_Milio",
+        "TFT17_Riven",
+        "TFT17_IvernMinion",
+        "TFT17_Galio"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_Morellonomicon",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_JeweledGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_AssassinTrait"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17rangedtrait-tft17blitzcrank",
+      "name": "TFT17_SpaceGroove TFT17_RangedTrait - TFT17_Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.654,
+        "top4Rate": 0.808,
+        "winRate": 0.346,
+        "playRate": 0.0058,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Samira",
+        "TFT17_Nami",
+        "TFT17_Blitzcrank",
+        "TFT17_Nasus",
+        "TFT17_Gwen",
+        "TFT17_Jhin",
+        "TFT17_Teemo"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_ThiefsGloves",
+        "TFT_Item_IonicSpark",
+        "TFT_Item_Morellonomicon"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_RangedTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17resisttank-tft17bard",
+      "name": "TFT17_Astronaut TFT17_ResistTank - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.667,
+        "top4Rate": 0.833,
+        "winRate": 0.389,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Poppy",
+        "TFT17_Rammus",
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Shen",
+        "TFT17_Gnar",
+        "TFT17_Fizz",
+        "TFT17_Corki"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_BlueBuff"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_ResistTank"
+      ]
+    },
+    {
+      "id": "tft17stargazermountain-tft17drx-tft17jhin",
+      "name": "TFT17_Stargazer_Mountain TFT17_DRX - TFT17_Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.733,
+        "top4Rate": 0.8,
+        "winRate": 0.467,
+        "playRate": 0.0067,
+        "games": 30
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Maokai",
+        "TFT17_Rhaast",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_TahmKench",
+        "TFT17_Jhin",
+        "TFT17_Jax"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "carryItemsRaw": [
+        "TFT17_Item_StargazerEmblemItem",
+        "TFT_Item_InfinityEdge",
+        "TFT_Item_Deathblade"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Mountain",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17stargazershield-tft17drx-tft17jhin",
+      "name": "TFT17_Stargazer_Shield TFT17_DRX - TFT17_Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.824,
+        "top4Rate": 0.824,
+        "winRate": 0.353,
+        "playRate": 0.0038,
+        "games": 17
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Jax",
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_Jhin",
+        "TFT17_Rhaast",
+        "TFT17_TahmKench"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_InfinityEdge",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_PowerGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Shield",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17flextrait-tft17jhin",
+      "name": "TFT17_Astronaut TFT17_FlexTrait - TFT17_Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.095,
+        "top4Rate": 0.857,
+        "winRate": 0.19,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Gnar",
+        "TFT17_IvernMinion",
+        "TFT17_Rammus",
+        "TFT17_Galio",
+        "TFT17_Jhin",
+        "TFT17_Karma",
+        "TFT17_Poppy",
+        "TFT17_Bard"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_InfinityEdge",
+        "TFT_Item_LastWhisper",
+        "TFT_Item_Deathblade"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_FlexTrait"
+      ]
+    },
+    {
+      "id": "tft17flextrait-tft17shieldtank-tft17bard",
+      "name": "TFT17_FlexTrait TFT17_ShieldTank - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.132,
+        "top4Rate": 0.737,
+        "winRate": 0.237,
+        "playRate": 0.0085,
+        "games": 38
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Mordekaiser",
+        "TFT17_Summon",
+        "TFT17_Illaoi",
+        "TFT17_Karma",
+        "TFT17_Blitzcrank",
+        "TFT17_Sona"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_FlexTrait",
+        "TFT17_ShieldTank"
+      ]
+    },
+    {
+      "id": "tft17darkstar-tft17flextrait-tft17bard",
+      "name": "TFT17_DarkStar TFT17_FlexTrait - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.176,
+        "top4Rate": 0.706,
+        "winRate": 0.353,
+        "playRate": 0.0038,
+        "games": 17
+      },
+      "coreUnits": [
+        "TFT17_Mordekaiser",
+        "TFT17_Karma",
+        "TFT17_Bard",
+        "TFT17_Galio",
+        "TFT17_Jhin",
+        "TFT17_Chogath",
+        "TFT17_Kaisa",
+        "TFT17_TahmKench"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT17_Item_DarkStarEmblemItem",
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_RabadonsDeathcap"
+      ],
+      "keyTraits": [
+        "TFT17_DarkStar",
+        "TFT17_FlexTrait"
+      ]
+    },
+    {
+      "id": "tft17drx-tft17meleetrait-tft17fiora",
+      "name": "TFT17_DRX TFT17_MeleeTrait - TFT17_Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.273,
+        "top4Rate": 0.703,
+        "winRate": 0.326,
+        "playRate": 0.0385,
+        "games": 172
+      },
+      "coreUnits": [
+        "TFT17_Akali",
+        "TFT17_Fiora",
+        "TFT17_Aatrox",
+        "TFT17_Shen",
+        "TFT17_Blitzcrank",
+        "TFT17_Vex",
+        "TFT17_Nunu",
+        "TFT17_Graves"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_ThiefsGloves",
+        "TFT_Item_GuardianAngel",
+        "TFT_Item_SteraksGage"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_MeleeTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17darkstar-tft17jhin",
+      "name": "TFT17_Astronaut TFT17_DarkStar - TFT17_Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.333,
+        "top4Rate": 0.778,
+        "winRate": 0.167,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Rammus",
+        "TFT17_Jhin",
+        "TFT17_Gnar",
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Poppy",
+        "TFT17_Mordekaiser",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_LastWhisper",
+        "TFT_Item_Deathblade",
+        "TFT_Item_InfinityEdge"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_DarkStar"
+      ]
+    },
+    {
+      "id": "tft17hptank-tft17meleetrait-tft17fiora",
+      "name": "TFT17_HPTank TFT17_MeleeTrait - TFT17_Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.34,
+        "top4Rate": 0.716,
+        "winRate": 0.235,
+        "playRate": 0.0363,
+        "games": 162
+      },
+      "coreUnits": [
+        "TFT17_Fiora",
+        "TFT17_Urgot",
+        "TFT17_TahmKench",
+        "TFT17_Maokai",
+        "TFT17_MasterYi",
+        "TFT17_Gragas",
+        "TFT17_Kindred",
+        "TFT17_Belveth"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GuardianAngel",
+        "TFT_Item_SteraksGage",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_HPTank",
+        "TFT17_MeleeTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17flextrait-tft17bard",
+      "name": "TFT17_Astronaut TFT17_FlexTrait - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.391,
+        "top4Rate": 0.696,
+        "winRate": 0.261,
+        "playRate": 0.0052,
+        "games": 23
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Bard",
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Galio",
+        "TFT17_Karma",
+        "TFT17_Gnar",
+        "TFT17_Corki"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_Morellonomicon",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_JeweledGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_FlexTrait"
+      ]
+    },
+    {
+      "id": "tft17drx-tft17hptank-tft17fiora",
+      "name": "TFT17_DRX TFT17_HPTank - TFT17_Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.424,
+        "top4Rate": 0.636,
+        "winRate": 0.394,
+        "playRate": 0.0074,
+        "games": 33
+      },
+      "coreUnits": [
+        "TFT17_Fiora",
+        "TFT17_Maokai",
+        "TFT17_Akali",
+        "TFT17_TahmKench",
+        "TFT17_Shen",
+        "TFT17_Graves",
+        "TFT17_Aatrox",
+        "TFT17_Vex"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GuardianAngel",
+        "TFT_Item_Bloodthirster",
+        "TFT_Item_ThiefsGloves"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_HPTank"
+      ]
+    },
+    {
+      "id": "tft17shieldtank-tft17summontrait-tft17bard",
+      "name": "TFT17_ShieldTank TFT17_SummonTrait - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.527,
+        "top4Rate": 0.717,
+        "winRate": 0.223,
+        "playRate": 0.0412,
+        "games": 184
+      },
+      "coreUnits": [
+        "TFT17_Illaoi",
+        "TFT17_Bard",
+        "TFT17_Summon",
+        "TFT17_IvernMinion",
+        "TFT17_Mordekaiser",
+        "TFT17_Sona",
+        "TFT17_Blitzcrank",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_StatikkShiv",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17aptrait-tft17blitzcrank",
+      "name": "TFT17_SpaceGroove TFT17_APTrait - TFT17_Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.718,
+        "top4Rate": 0.641,
+        "winRate": 0.179,
+        "playRate": 0.0175,
+        "games": 78
+      },
+      "coreUnits": [
+        "TFT17_Nami",
+        "TFT17_Blitzcrank",
+        "TFT17_Ornn",
+        "TFT17_Pantheon",
+        "TFT17_Gwen",
+        "TFT17_Nasus",
+        "TFT17_TahmKench",
+        "TFT17_Riven"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_StatikkShiv",
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_Morellonomicon"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_APTrait"
+      ]
+    },
+    {
+      "id": "tft17shieldtank-tft17flextrait-tft17blitzcrank",
+      "name": "TFT17_ShieldTank TFT17_FlexTrait - TFT17_Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.733,
+        "top4Rate": 0.667,
+        "winRate": 0.133,
+        "playRate": 0.0034,
+        "games": 15
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Illaoi",
+        "TFT17_Karma",
+        "TFT17_Blitzcrank",
+        "TFT17_Mordekaiser",
+        "TFT17_Summon",
+        "TFT17_Nunu",
+        "TFT17_Sona"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_ThiefsGloves",
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_Bloodthirster"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_FlexTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17shieldtank-tft17bard",
+      "name": "TFT17_Astronaut TFT17_ShieldTank - TFT17_Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.762,
+        "top4Rate": 0.571,
+        "winRate": 0.286,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Mordekaiser",
+        "TFT17_Bard",
+        "TFT17_IvernMinion",
+        "TFT17_Blitzcrank",
+        "TFT17_Sona",
+        "TFT17_Illaoi",
+        "TFT17_Karma",
+        "TFT17_Summon"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_PowerGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_ShieldTank"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17shieldtank-tft17blitzcrank",
+      "name": "TFT17_SpaceGroove TFT17_ShieldTank - TFT17_Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.778,
+        "top4Rate": 0.611,
+        "winRate": 0.167,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Blitzcrank",
+        "TFT17_Nami",
+        "TFT17_Nasus",
+        "TFT17_Samira",
+        "TFT17_Gwen",
+        "TFT17_Nunu",
+        "TFT17_Teemo"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_ThiefsGloves",
+        "TFT_Item_StatikkShiv",
+        "TFT_Item_EmptyBag"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ShieldTank"
+      ]
+    },
+    {
+      "id": "tft17astrait-tft17drx-tft17kindred",
+      "name": "TFT17_ASTrait TFT17_DRX - TFT17_Kindred",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.786,
+        "top4Rate": 0.607,
+        "winRate": 0.107,
+        "playRate": 0.0063,
+        "games": 28
+      },
+      "coreUnits": [
+        "TFT17_Kindred",
+        "TFT17_Maokai",
+        "TFT17_Belveth",
+        "TFT17_Akali",
+        "TFT17_Aatrox",
+        "TFT17_Rhaast",
+        "TFT17_Jinx",
+        "TFT17_MissFortune"
+      ],
+      "carryUnits": [
+        "TFT17_Kindred"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_ThiefsGloves",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_Deathblade"
+      ],
+      "keyTraits": [
+        "TFT17_ASTrait",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17stargazerfountain-tft17drx-tft17jhin",
+      "name": "TFT17_Stargazer_Fountain TFT17_DRX - TFT17_Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.889,
+        "top4Rate": 0.556,
+        "winRate": 0.222,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Jax",
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_Jhin",
+        "TFT17_TahmKench",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_InfinityEdge",
+        "TFT_Item_Deathblade",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Fountain",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17aptrait-tft17shen",
+      "name": "TFT17_SpaceGroove TFT17_APTrait - TFT17_Shen",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4,
+        "top4Rate": 0.6,
+        "winRate": 0.133,
+        "playRate": 0.0034,
+        "games": 15
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Nami",
+        "TFT17_Shen",
+        "TFT17_Pantheon",
+        "TFT17_Nasus",
+        "TFT17_Gwen",
+        "TFT17_Blitzcrank",
+        "TFT17_Samira"
+      ],
+      "carryUnits": [
+        "TFT17_Shen"
+      ],
+      "carryItemsRaw": [
+        "TFT17_Item_SpaceGrooveEmblemItem",
+        "TFT_Item_TitansResolve",
+        "TFT_Item_GuardianAngel"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_APTrait"
+      ]
+    },
+    {
+      "id": "tft17darkstar-tft17summontrait-tft17karma",
+      "name": "TFT17_DarkStar TFT17_SummonTrait - TFT17_Karma",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.048,
+        "top4Rate": 0.714,
+        "winRate": 0,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Lissandra",
+        "TFT17_Karma",
+        "TFT17_Summon",
+        "TFT17_Mordekaiser",
+        "TFT17_Illaoi",
+        "TFT17_IvernMinion",
+        "TFT17_Chogath",
+        "TFT17_Kaisa"
+      ],
+      "carryUnits": [
+        "TFT17_Karma"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_StatikkShiv",
+        "TFT_Item_Morellonomicon",
+        "TFT_Item_JeweledGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_DarkStar",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17darkstar-tft17shieldtank-tft17bard",
+      "name": "TFT17_DarkStar TFT17_ShieldTank - TFT17_Bard",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.077,
+        "top4Rate": 0.538,
+        "winRate": 0.231,
+        "playRate": 0.0058,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Mordekaiser",
+        "TFT17_Blitzcrank",
+        "TFT17_Karma",
+        "TFT17_Nunu",
+        "TFT17_Illaoi",
+        "TFT17_IvernMinion",
+        "TFT17_Jhin"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_RabadonsDeathcap"
+      ],
+      "keyTraits": [
+        "TFT17_DarkStar",
+        "TFT17_ShieldTank"
+      ]
+    },
+    {
+      "id": "tft17shieldtank-tft17manatrait-tft17bard",
+      "name": "TFT17_ShieldTank TFT17_ManaTrait - TFT17_Bard",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.085,
+        "top4Rate": 0.596,
+        "winRate": 0.128,
+        "playRate": 0.0105,
+        "games": 47
+      },
+      "coreUnits": [
+        "TFT17_Mordekaiser",
+        "TFT17_Bard",
+        "TFT17_Illaoi",
+        "TFT17_Summon",
+        "TFT17_Nunu",
+        "TFT17_Sona",
+        "TFT17_IvernMinion",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_ManaTrait"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17resisttank-tft17blitzcrank",
+      "name": "TFT17_SpaceGroove TFT17_ResistTank - TFT17_Blitzcrank",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.091,
+        "top4Rate": 0.591,
+        "winRate": 0.045,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Nami",
+        "TFT17_Blitzcrank",
+        "TFT17_Nasus",
+        "TFT17_Samira",
+        "TFT17_Gwen",
+        "TFT17_Teemo",
+        "TFT17_Shen"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_StatikkShiv"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ResistTank"
+      ]
+    },
+    {
+      "id": "tft17stargazerserpent-tft17drx-tft17jhin",
+      "name": "TFT17_Stargazer_Serpent TFT17_DRX - TFT17_Jhin",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.136,
+        "top4Rate": 0.591,
+        "winRate": 0.227,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_TahmKench",
+        "TFT17_Jhin",
+        "TFT17_Aatrox",
+        "TFT17_Jax",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_InfinityEdge",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_Deathblade"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Serpent",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17stargazermountain-tft17aptrait-tft17lulu",
+      "name": "TFT17_Stargazer_Mountain TFT17_APTrait - TFT17_Lulu",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.136,
+        "top4Rate": 0.682,
+        "winRate": 0.045,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_TwistedFate",
+        "TFT17_Jax",
+        "TFT17_Milio",
+        "TFT17_Pantheon",
+        "TFT17_Lulu",
+        "TFT17_Maokai",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Lulu"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_Leviathan",
+        "TFT_Item_SpearOfShojin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Mountain",
+        "TFT17_APTrait"
+      ]
+    },
+    {
+      "id": "tft17astrait-tft17drx-tft17belveth",
+      "name": "TFT17_ASTrait TFT17_DRX - TFT17_Belveth",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.207,
+        "top4Rate": 0.517,
+        "winRate": 0.069,
+        "playRate": 0.0065,
+        "games": 29
+      },
+      "coreUnits": [
+        "TFT17_Belveth",
+        "TFT17_Jinx",
+        "TFT17_Akali",
+        "TFT17_Maokai",
+        "TFT17_RekSai",
+        "TFT17_Kindred",
+        "TFT17_Briar",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Belveth"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_RunaansHurricane",
+        "TFT_Item_Quicksilver",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_ASTrait",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17astrait-tft17drx-tft17missfortune",
+      "name": "TFT17_ASTrait TFT17_DRX - TFT17_MissFortune",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.217,
+        "top4Rate": 0.565,
+        "winRate": 0.065,
+        "playRate": 0.0103,
+        "games": 46
+      },
+      "coreUnits": [
+        "TFT17_MissFortune",
+        "TFT17_Maokai",
+        "TFT17_Urgot",
+        "TFT17_Ornn",
+        "TFT17_Aatrox",
+        "TFT17_Belveth",
+        "TFT17_Rhaast",
+        "TFT17_Kindred"
+      ],
+      "carryUnits": [
+        "TFT17_MissFortune"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_InfinityEdge",
+        "TFT_Item_GuinsoosRageblade",
+        "TFT_Item_Deathblade"
+      ],
+      "keyTraits": [
+        "TFT17_ASTrait",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17rangedtrait-tft17nami",
+      "name": "TFT17_SpaceGroove TFT17_RangedTrait - TFT17_Nami",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.278,
+        "top4Rate": 0.556,
+        "winRate": 0.167,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Samira",
+        "TFT17_Gwen",
+        "TFT17_Nami",
+        "TFT17_Nasus",
+        "TFT17_Jhin",
+        "TFT17_Shen",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Nami"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_Morellonomicon",
+        "TFT_Item_SpearOfShojin"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_RangedTrait"
+      ]
+    },
+    {
+      "id": "tft17shieldtank-tft17summontrait-tft17blitzcrank",
+      "name": "TFT17_ShieldTank TFT17_SummonTrait - TFT17_Blitzcrank",
+      "tier": "B",
+      "stats": {
+        "avgPlacement": 4.308,
+        "top4Rate": 0.538,
+        "winRate": 0.123,
+        "playRate": 0.0146,
+        "games": 65
+      },
+      "coreUnits": [
+        "TFT17_Blitzcrank",
+        "TFT17_Summon",
+        "TFT17_IvernMinion",
+        "TFT17_Illaoi",
+        "TFT17_Mordekaiser",
+        "TFT17_Nunu",
+        "TFT17_Sona",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_ThiefsGloves",
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_AdaptiveHelm"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17drx-tft17meleetrait-tft17blitzcrank",
+      "name": "TFT17_DRX TFT17_MeleeTrait - TFT17_Blitzcrank",
+      "tier": "B",
+      "stats": {
+        "avgPlacement": 4.489,
+        "top4Rate": 0.511,
+        "winRate": 0.106,
+        "playRate": 0.0105,
+        "games": 47
+      },
+      "coreUnits": [
+        "TFT17_Fiora",
+        "TFT17_Akali",
+        "TFT17_Blitzcrank",
+        "TFT17_Aatrox",
+        "TFT17_Vex",
+        "TFT17_Shen",
+        "TFT17_Nunu",
+        "TFT17_Graves"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_ThiefsGloves",
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_UnstableConcoction"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_MeleeTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17flextrait-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_FlexTrait - TFT17_Rammus",
+      "tier": "B",
+      "stats": {
+        "avgPlacement": 4.493,
+        "top4Rate": 0.493,
+        "winRate": 0.101,
+        "playRate": 0.0155,
+        "games": 69
+      },
+      "coreUnits": [
+        "TFT17_Rammus",
+        "TFT17_IvernMinion",
+        "TFT17_Galio",
+        "TFT17_Poppy",
+        "TFT17_Corki",
+        "TFT17_Gnar",
+        "TFT17_Karma",
+        "TFT17_Fizz"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_Crownguard",
+        "TFT_Item_FrozenHeart"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_FlexTrait"
+      ]
+    },
+    {
+      "id": "tft17hptank-tft17meleetrait-tft17graves",
+      "name": "TFT17_HPTank TFT17_MeleeTrait - TFT17_Graves",
+      "tier": "B",
+      "stats": {
+        "avgPlacement": 4.548,
+        "top4Rate": 0.516,
+        "winRate": 0.097,
+        "playRate": 0.0069,
+        "games": 31
+      },
+      "coreUnits": [
+        "TFT17_Maokai",
+        "TFT17_MasterYi",
+        "TFT17_Graves",
+        "TFT17_TahmKench",
+        "TFT17_Urgot",
+        "TFT17_Gragas",
+        "TFT17_Belveth",
+        "TFT17_Akali"
+      ],
+      "carryUnits": [
+        "TFT17_Graves"
+      ],
+      "carryItemsRaw": [
+        "TFT17_Item_MeleeTraitEmblemItem",
+        "TFT_Item_Quicksilver",
+        "TFT_Item_SteraksGage"
+      ],
+      "keyTraits": [
+        "TFT17_HPTank",
+        "TFT17_MeleeTrait"
+      ]
+    },
+    {
+      "id": "tft17admin-tft17animasquad-tft17illaoi",
+      "name": "TFT17_ADMIN TFT17_AnimaSquad - TFT17_Illaoi",
+      "tier": "B",
+      "stats": {
+        "avgPlacement": 4.563,
+        "top4Rate": 0.5,
+        "winRate": 0.188,
+        "playRate": 0.0036,
+        "games": 16
+      },
+      "coreUnits": [
+        "TFT17_Leona",
+        "TFT17_Jinx",
+        "TFT17_IvernMinion",
+        "TFT17_Illaoi",
+        "TFT17_Aurora",
+        "TFT17_Diana",
+        "TFT17_Leblanc",
+        "TFT17_Summon"
+      ],
+      "carryUnits": [
+        "TFT17_Illaoi"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_WarmogsArmor",
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_Redemption"
+      ],
+      "keyTraits": [
+        "TFT17_ADMIN",
+        "TFT17_AnimaSquad"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17assassintrait-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_AssassinTrait - TFT17_Rammus",
+      "tier": "B",
+      "stats": {
+        "avgPlacement": 4.57,
+        "top4Rate": 0.503,
+        "winRate": 0.081,
+        "playRate": 0.0334,
+        "games": 149
+      },
+      "coreUnits": [
+        "TFT17_Corki",
+        "TFT17_Fizz",
+        "TFT17_Rammus",
+        "TFT17_IvernMinion",
+        "TFT17_Riven",
+        "TFT17_Milio",
+        "TFT17_Poppy",
+        "TFT17_Galio"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_Crownguard",
+        "TFT_Item_FrozenHeart"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_AssassinTrait"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17shieldtank-tft17nami",
+      "name": "TFT17_SpaceGroove TFT17_ShieldTank - TFT17_Nami",
+      "tier": "B",
+      "stats": {
+        "avgPlacement": 4.588,
+        "top4Rate": 0.529,
+        "winRate": 0.176,
+        "playRate": 0.0038,
+        "games": 17
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Nami",
+        "TFT17_Nasus",
+        "TFT17_Blitzcrank",
+        "TFT17_Gwen",
+        "TFT17_Samira",
+        "TFT17_Teemo",
+        "TFT17_Nunu"
+      ],
+      "carryUnits": [
+        "TFT17_Nami"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_Leviathan",
+        "TFT_Item_SpearOfShojin"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ShieldTank"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17resisttank-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_ResistTank - TFT17_Rammus",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 4.62,
+        "top4Rate": 0.52,
+        "winRate": 0.06,
+        "playRate": 0.0112,
+        "games": 50
+      },
+      "coreUnits": [
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Corki",
+        "TFT17_IvernMinion",
+        "TFT17_Fizz",
+        "TFT17_Shen",
+        "TFT17_Milio",
+        "TFT17_Riven"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_Crownguard",
+        "TFT_Item_FrozenHeart"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_ResistTank"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17darkstar-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_DarkStar - TFT17_Rammus",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 4.647,
+        "top4Rate": 0.529,
+        "winRate": 0,
+        "playRate": 0.0038,
+        "games": 17
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Gnar",
+        "TFT17_Bard",
+        "TFT17_Jhin",
+        "TFT17_Karma",
+        "TFT17_Corki"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_WarmogsArmor",
+        "TFT_Item_FrozenHeart"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_DarkStar"
+      ]
+    },
+    {
+      "id": "tft17stargazermedallion-tft17aptrait-tft17lulu",
+      "name": "TFT17_Stargazer_Medallion TFT17_APTrait - TFT17_Lulu",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 4.75,
+        "top4Rate": 0.45,
+        "winRate": 0.1,
+        "playRate": 0.0045,
+        "games": 20
+      },
+      "coreUnits": [
+        "TFT17_TwistedFate",
+        "TFT17_Jax",
+        "TFT17_Milio",
+        "TFT17_Pantheon",
+        "TFT17_Maokai",
+        "TFT17_Lulu",
+        "TFT17_Aatrox",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Lulu"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_Leviathan",
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_SpearOfShojin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Medallion",
+        "TFT17_APTrait"
+      ]
+    },
+    {
+      "id": "tft17aptrait-tft17drx-tft17missfortune",
+      "name": "TFT17_APTrait TFT17_DRX - TFT17_MissFortune",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 4.818,
+        "top4Rate": 0.591,
+        "winRate": 0.045,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Pantheon",
+        "TFT17_MissFortune",
+        "TFT17_Maokai",
+        "TFT17_Lulu",
+        "TFT17_Ornn",
+        "TFT17_Nami",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_MissFortune"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_InfinityEdge",
+        "TFT_Item_SpearOfShojin",
+        "TFT_Item_Deathblade"
+      ],
+      "keyTraits": [
+        "TFT17_APTrait",
+        "TFT17_DRX"
+      ]
+    },
+    {
+      "id": "tft17drx-tft17astrait-tft17maokai",
+      "name": "TFT17_DRX TFT17_ASTrait - TFT17_Maokai",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 4.87,
+        "top4Rate": 0.391,
+        "winRate": 0,
+        "playRate": 0.0052,
+        "games": 23
+      },
+      "coreUnits": [
+        "TFT17_Jinx",
+        "TFT17_Maokai",
+        "TFT17_Belveth",
+        "TFT17_Kindred",
+        "TFT17_Akali",
+        "TFT17_RekSai",
+        "TFT17_Briar",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Maokai"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_SpectralGauntlet",
+        "TFT_Item_WarmogsArmor",
+        "TFT_Item_Redemption"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_ASTrait"
+      ]
+    },
+    {
+      "id": "tft17drx-tft17meleetrait-tft17vex",
+      "name": "TFT17_DRX TFT17_MeleeTrait - TFT17_Vex",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 4.964,
+        "top4Rate": 0.4,
+        "winRate": 0.109,
+        "playRate": 0.0123,
+        "games": 55
+      },
+      "coreUnits": [
+        "TFT17_Shen",
+        "TFT17_Aatrox",
+        "TFT17_Akali",
+        "TFT17_Fiora",
+        "TFT17_Vex",
+        "TFT17_Nunu",
+        "TFT17_Graves",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Vex"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GuinsoosRageblade",
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_RapidFireCannon"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_MeleeTrait"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17resisttank-tft17nami",
+      "name": "TFT17_SpaceGroove TFT17_ResistTank - TFT17_Nami",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5,
+        "top4Rate": 0.381,
+        "winRate": 0.143,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Samira",
+        "TFT17_Nami",
+        "TFT17_Nasus",
+        "TFT17_Gwen",
+        "TFT17_Blitzcrank",
+        "TFT17_Teemo",
+        "TFT17_Shen"
+      ],
+      "carryUnits": [
+        "TFT17_Nami"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_SpearOfShojin",
+        "TFT_Item_StatikkShiv"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ResistTank"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17resisttank-tft17samira",
+      "name": "TFT17_SpaceGroove TFT17_ResistTank - TFT17_Samira",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.059,
+        "top4Rate": 0.294,
+        "winRate": 0.118,
+        "playRate": 0.0038,
+        "games": 17
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Samira",
+        "TFT17_Nasus",
+        "TFT17_Gwen",
+        "TFT17_Nami",
+        "TFT17_Blitzcrank",
+        "TFT17_Teemo",
+        "TFT17_Shen"
+      ],
+      "carryUnits": [
+        "TFT17_Samira"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_SpearOfShojin",
+        "TFT_Item_LastWhisper",
+        "TFT_Item_InfinityEdge"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ResistTank"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17summontrait-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_SummonTrait - TFT17_Rammus",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.069,
+        "top4Rate": 0.345,
+        "winRate": 0.034,
+        "playRate": 0.0065,
+        "games": 29
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Rammus",
+        "TFT17_Summon",
+        "TFT17_Poppy",
+        "TFT17_Veigar",
+        "TFT17_Lissandra",
+        "TFT17_Illaoi",
+        "TFT17_Mordekaiser"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_FrozenHeart",
+        "TFT_Item_IonicSpark"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17shieldtank-tft17summontrait-tft17sona",
+      "name": "TFT17_ShieldTank TFT17_SummonTrait - TFT17_Sona",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.078,
+        "top4Rate": 0.344,
+        "winRate": 0.063,
+        "playRate": 0.0143,
+        "games": 64
+      },
+      "coreUnits": [
+        "TFT17_Illaoi",
+        "TFT17_Sona",
+        "TFT17_Summon",
+        "TFT17_IvernMinion",
+        "TFT17_Mordekaiser",
+        "TFT17_Karma",
+        "TFT17_Nunu",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Sona"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_SpearOfShojin",
+        "TFT_Item_StatikkShiv"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17hptank-tft17meleetrait-tft17kindred",
+      "name": "TFT17_HPTank TFT17_MeleeTrait - TFT17_Kindred",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.198,
+        "top4Rate": 0.34,
+        "winRate": 0.019,
+        "playRate": 0.0237,
+        "games": 106
+      },
+      "coreUnits": [
+        "TFT17_Kindred",
+        "TFT17_MasterYi",
+        "TFT17_TahmKench",
+        "TFT17_Belveth",
+        "TFT17_Urgot",
+        "TFT17_Maokai",
+        "TFT17_Gragas",
+        "TFT17_Akali"
+      ],
+      "carryUnits": [
+        "TFT17_Kindred"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GuinsoosRageblade",
+        "TFT_Item_LastWhisper",
+        "TFT_Item_RunaansHurricane"
+      ],
+      "keyTraits": [
+        "TFT17_HPTank",
+        "TFT17_MeleeTrait"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17aptrait-tft17nami",
+      "name": "TFT17_SpaceGroove TFT17_APTrait - TFT17_Nami",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.397,
+        "top4Rate": 0.328,
+        "winRate": 0.017,
+        "playRate": 0.013,
+        "games": 58
+      },
+      "coreUnits": [
+        "TFT17_Nami",
+        "TFT17_Ornn",
+        "TFT17_Gwen",
+        "TFT17_Pantheon",
+        "TFT17_Nasus",
+        "TFT17_Riven",
+        "TFT17_TahmKench",
+        "TFT17_Samira"
+      ],
+      "carryUnits": [
+        "TFT17_Nami"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_Leviathan",
+        "TFT_Item_SpearOfShojin"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_APTrait"
+      ]
+    },
+    {
+      "id": "tft17shieldtank-tft17summontrait-tft17karma",
+      "name": "TFT17_ShieldTank TFT17_SummonTrait - TFT17_Karma",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.679,
+        "top4Rate": 0.25,
+        "winRate": 0.036,
+        "playRate": 0.0063,
+        "games": 28
+      },
+      "coreUnits": [
+        "TFT17_IvernMinion",
+        "TFT17_Karma",
+        "TFT17_Summon",
+        "TFT17_Mordekaiser",
+        "TFT17_Illaoi",
+        "TFT17_Nunu",
+        "TFT17_Sona",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Karma"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_StatikkShiv",
+        "TFT_Item_SpearOfShojin",
+        "TFT_Item_JeweledGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17timebreaker-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_Timebreaker - TFT17_Rammus",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.778,
+        "top4Rate": 0.222,
+        "winRate": 0,
+        "playRate": 0.004,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_Fizz",
+        "TFT17_Rammus",
+        "TFT17_Corki",
+        "TFT17_Riven",
+        "TFT17_Milio",
+        "TFT17_Poppy",
+        "TFT17_IvernMinion",
+        "TFT17_Galio"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_Crownguard",
+        "TFT_Item_RedBuff"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_Timebreaker"
+      ]
+    },
+    {
+      "id": "tft17shieldtank-tft17summontrait-tft17vex",
+      "name": "TFT17_ShieldTank TFT17_SummonTrait - TFT17_Vex",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.848,
+        "top4Rate": 0.273,
+        "winRate": 0.03,
+        "playRate": 0.0074,
+        "games": 33
+      },
+      "coreUnits": [
+        "TFT17_Mordekaiser",
+        "TFT17_Illaoi",
+        "TFT17_Vex",
+        "TFT17_Summon",
+        "TFT17_IvernMinion",
+        "TFT17_Nunu",
+        "TFT17_Sona",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Vex"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GuinsoosRageblade",
+        "TFT_Item_JeweledGauntlet",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_SummonTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17aptrait-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_APTrait - TFT17_Rammus",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.857,
+        "top4Rate": 0.143,
+        "winRate": 0,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Veigar",
+        "TFT17_IvernMinion",
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Corki",
+        "TFT17_Fizz",
+        "TFT17_Lissandra",
+        "TFT17_Gnar"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_WarmogsArmor",
+        "TFT_Item_Redemption"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_APTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17assassintrait-tft17corki",
+      "name": "TFT17_Astronaut TFT17_AssassinTrait - TFT17_Corki",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 5.905,
+        "top4Rate": 0.238,
+        "winRate": 0.048,
+        "playRate": 0.0047,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Milio",
+        "TFT17_IvernMinion",
+        "TFT17_Fizz",
+        "TFT17_Rammus",
+        "TFT17_Corki",
+        "TFT17_Riven",
+        "TFT17_Poppy",
+        "TFT17_Galio"
+      ],
+      "carryUnits": [
+        "TFT17_Corki"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_Deathblade",
+        "TFT_Item_LastWhisper",
+        "TFT_Item_PowerGauntlet"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_AssassinTrait"
+      ]
+    },
+    {
+      "id": "tft17hptank-tft17meleetrait-tft17masteryi",
+      "name": "TFT17_HPTank TFT17_MeleeTrait - TFT17_MasterYi",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 6.136,
+        "top4Rate": 0.182,
+        "winRate": 0,
+        "playRate": 0.0049,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_MasterYi",
+        "TFT17_Maokai",
+        "TFT17_Urgot",
+        "TFT17_Belveth",
+        "TFT17_TahmKench",
+        "TFT17_Gragas",
+        "TFT17_Kindred",
+        "TFT17_Fiora"
+      ],
+      "carryUnits": [
+        "TFT17_MasterYi"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GuardianAngel",
+        "TFT_Item_Quicksilver",
+        "TFT_Item_MadredsBloodrazor"
+      ],
+      "keyTraits": [
+        "TFT17_HPTank",
+        "TFT17_MeleeTrait"
+      ]
+    },
+    {
+      "id": "tft17spacegroove-tft17rangedtrait-tft17samira",
+      "name": "TFT17_SpaceGroove TFT17_RangedTrait - TFT17_Samira",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 6.533,
+        "top4Rate": 0.2,
+        "winRate": 0.067,
+        "playRate": 0.0034,
+        "games": 15
+      },
+      "coreUnits": [
+        "TFT17_Samira",
+        "TFT17_Ornn",
+        "TFT17_Nasus",
+        "TFT17_Nami",
+        "TFT17_Jhin",
+        "TFT17_Gwen",
+        "TFT17_Shen",
+        "TFT17_Rammus"
+      ],
+      "carryUnits": [
+        "TFT17_Samira"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_SpearOfShojin",
+        "TFT_Item_Deathblade",
+        "TFT_Item_LastWhisper"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_RangedTrait"
+      ]
+    },
+    {
+      "id": "tft17astronaut-tft17rangedtrait-tft17rammus",
+      "name": "TFT17_Astronaut TFT17_RangedTrait - TFT17_Rammus",
+      "tier": "C",
+      "stats": {
+        "avgPlacement": 6.882,
+        "top4Rate": 0.059,
+        "winRate": 0,
+        "playRate": 0.0038,
+        "games": 17
+      },
+      "coreUnits": [
+        "TFT17_Poppy",
+        "TFT17_Gnar",
+        "TFT17_Rammus",
+        "TFT17_Corki",
+        "TFT17_IvernMinion",
+        "TFT17_Fizz",
+        "TFT17_Samira",
+        "TFT17_Veigar"
+      ],
+      "carryUnits": [
+        "TFT17_Rammus"
+      ],
+      "carryItemsRaw": [
+        "TFT_Item_GargoyleStoneplate",
+        "TFT_Item_Crownguard",
+        "TFT_Item_FrozenHeart"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_RangedTrait"
+      ]
+    }
+  ]
+}

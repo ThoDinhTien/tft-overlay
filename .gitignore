@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+# Icon tướng tải về (sinh lại bằng fetch_assets.mjs)
+data/champions/*.png
